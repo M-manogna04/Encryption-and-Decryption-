@@ -9,7 +9,7 @@ Message encoding and decoding is the process of converting the original text to 
 To build this project we will use basic concept of python, Tkinter, and base64 library.
 To install the library we use pip install command on the command prompt
 
-    "pip install tkinter "
+    "pip install tkinter"
     "pip install base64"
   
 
